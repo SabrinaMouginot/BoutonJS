@@ -21,3 +21,15 @@
 .btnJS button:hover {
     transform: translateY(-2px);
 }
+
+@media (max-width: 425px) {
+    .btnJS {
+        padding: 1rem;
+        gap: 1rem;
+    }
+
+    .btnJS button {
+        width: 7rem;
+        height: 7rem;
+    }
+}
