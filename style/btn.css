@@ -5,6 +5,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background: radial-gradient(circle at top, rgb(60, 87, 59), rgb(18, 28, 19) 65%);
+    color: #f4f4f4;
 }
 
 .btnJS button {
