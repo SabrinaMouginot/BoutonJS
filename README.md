@@ -4,6 +4,7 @@ Petit projet d'entraînement consistant à créer un bouton interactif en JavaSc
 
 ## Aperçu
 
+<img width="1867" height="825" alt="img btn" src="https://github.com/user-attachments/assets/fdf7f766-b050-4521-a87a-9d01c6020ce9" />
 ![Aperçu du bouton](screenshot.png)
 
 ## Fonctionnalités
